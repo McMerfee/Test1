@@ -1,6 +1,6 @@
 <html>
 <body>
-    <h1>Калькулятор кроликов</h1>
+    <h1>Считаем кроликов</h1>
 
     <script type="text/javascript">
         for(var i=1; i<=3; i++) {
